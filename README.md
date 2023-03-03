@@ -76,4 +76,4 @@ Please notice that the file config.toml is to add on a folder .streamlit
 You have to build the image using the following command: docker build . -t getaround-stream
 And run the command: docker run -it -v "$(pwd):/home/app" -e PORT=80 -p 4000:80 getaround-stream
 
-To deply, it's the same steps, just change the app name, for example here: getaround-dashboard-f
+To deploy, it's the same steps, just change the app name, for example here: getaround-dashboard-f
