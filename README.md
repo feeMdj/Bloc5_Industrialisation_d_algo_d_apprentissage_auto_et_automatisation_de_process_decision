@@ -2,7 +2,7 @@
 ## Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision.
 
 ## Vidéo:
-[video de présentation](https://share.vidyard.com/watch/nhd9YyZH4vu7t8A29bKyxg?)
+[LIEN VIDEO DE PRESENTATION](https://share.vidyard.com/watch/nhd9YyZH4vu7t8A29bKyxg?)
 
 -------------
 
