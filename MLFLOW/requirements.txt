@@ -1,0 +1,12 @@
+jupyter
+openpyxl
+boto3
+pandas 
+gunicorn 
+streamlit 
+scikit-learn==1.2.0
+matplotlib 
+seaborn 
+plotly
+mlflow
+psycopg2-binary
